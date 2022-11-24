@@ -1,0 +1,42 @@
+
+.section-page{
+	min-height: 55 wi;
+	padding: 2rem 1rem 1rem;
+}
+.section-page:nth-of-type(odd)
+	background: #d5d5d5;
+} 
+.nav {
+	padding: 0;
+}
+.nav_item {
+	list-style: none;
+	display: inline-block;
+}
+.nav_link {
+	padding: 1rem;
+}
+
+.nav_link:hover {
+	background: mediumpurple;
+	color: whitesmoke;
+}
+body {
+	font-family: serif;
+}
+.float-right {
+	float: right;
+	margin-left: 1rem;
+}
+.float-left {
+	float: left;
+	margin-right: 1rem;
+}
+{
+ 
+
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
